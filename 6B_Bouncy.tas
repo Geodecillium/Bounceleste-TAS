@@ -1,7 +1,7 @@
 # CelesteButBouncy
 # https://gamebanana.com/mods/344615
 
-RecordCount: 7420
+RecordCount: 7770
 
 console hard TehTorrifisor/CelesteButBouncy/06-Reflection
    1
@@ -35,66 +35,48 @@ console hard TehTorrifisor/CelesteButBouncy/06-Reflection
    9,D,X
   18,R,J
   12,U,X
-  13,R,J
+   8,R,J
+   1,R
+   7
   40
 
 #lvl_a-01
-   9
-   2,R
-  12,U,X
+   7
+   3,R
+   1
+  14,U,Z
   26
    1,L,U
-  45,F,4.66
-   1,F,3.155
-  11,F,303
-   5,F,274
-   1,F,272.666
-  11,F,213
-  48,F,196.521
-   1,F,201.188
-  11,F,257.83
-   9,F,321
-  37,F,10.042
-   1,F,6.057
-  35,F,348.938
-   1,F,351.475
-  11,F,51
-  32,F,79.854
-  21,R,Z
-  11,R,U,V
-  12,R,J
+  43,F,3.201
+   1,F,357.91
+  11,F,298
+  10,F,264.64
+   5,L,D,X
+  26
+   1,R,U
+   1,F,5.541
+StunPause
+  17,F,5.541
+   1,F,9.439
+   1,F,45.776
+EndStunPause
+  29,F,45.776
+   1,F,43.77
+  15,F,10.5
   40
 
 #lvl_a-02
-  11
-   9,D,X
-   7,L,J
-   9,D,X
-  12,L,J
-  15,L,D,X
-  21,L
-  15,U,X
-  17,L
-  23,R
-  15,U,X
-   2,R
-  26
-   1,L,D
-  20,F,185.148
-   1,F,181.816
-  18,F,127.704
-   1,F,126.37
-  11,F,84.624
-   1,F,84.237
-  11,F,77.565
-   1,F,72.366
-  43,F,22.178
-   7,F,40
-  12,U,X
+   1,F,0
+  43,F,3.339
+   1,F,3.766
+  10,F,39.7,0.69
+   7,R
+  15,U,Z
+  13,L,J
   40
 
 #lvl_a-03
-  11
+  11,L
   11,D,X
    4,R,J
    9,D,X
@@ -814,11 +796,14 @@ endrepeat
 #   5,R,J
 #   1,R
 #  16,R,D,X
-#   1,R
+#   3,R
 #   1,R,D
-#  33,R,J
+#  31,R
 #  33,R,U,X
 #  50,R,U,C
+
+#2:40.378(9434)
+
   18,L,J
    9,K
    1

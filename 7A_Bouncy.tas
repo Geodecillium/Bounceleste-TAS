@@ -1,7 +1,7 @@
 # CelesteButBouncy
 # https://gamebanana.com/mods/344615
 
-RecordCount: 7931
+RecordCount: 8409
 
 console load TehTorrifisor/CelesteButBouncy/07-Summit
    1
@@ -1153,22 +1153,19 @@ console load TehTorrifisor/CelesteButBouncy/07-Summit
 
 #lvl_f-05
    2,D
-   5,R,X
+   5,L,X
    1,R,J
-   7,R
-   2,R,J
-  15,R,D,X
-   9,R,C
-  21,R,U,X
-  15,U,C
-   2,L
-   2,L,J
-  14,U,X
+   8,R
+   1,R,J
+   6,D,X
+  28,R,J
+  15,U,X
+   4,R
   40
 
 #lvl_f-07
-   5,L,J
-   5,R,J
+   4,L,J
+   6,R,J
   11,J
   15,U,X
   14,U,C
@@ -1256,8 +1253,6 @@ console load TehTorrifisor/CelesteButBouncy/07-Summit
    1,R,J
   11,D,X
   40
-
-#4:13.249(14897)
    3,D
    1,R,J
   15,D,X
